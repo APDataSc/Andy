@@ -1,7 +1,7 @@
 ---
 title       : Estadística Aplicada a las Ciencias Sociales - Introducción al Uso de R
 #subtitle    : ---
-author      : Ing. Miguel Flores Ph.D
+author      : Ing. Andrés Peña M.
 #job         : ---
 framework   : io2012      # {io2012, html5slides, shower, dzslides, revealjs, deckjs, Landslide...}
 #revealjs   :       {theme: moon, transition: concav}
